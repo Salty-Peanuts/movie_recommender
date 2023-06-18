@@ -1,13 +1,14 @@
 # movie_recommender
 A simple movie recommender using ChatGPT API
 
-# example
-Input movie: Inception
+# Usage example
 
-Output: 
-Inception
-Director: Christopher Nolan
-Release Year: 2010
+Input movie: Inception<br>
+
+Output: <br>
+Inception <br>
+Director: Christopher Nolan <br>
+Release Year: 2010 <br>
 
 1. Interstellar (Christopher Nolan, 2014) - A team of space explorers goes on a perilous journey through a wormhole in search of a new home for humanity.
 
